@@ -89,6 +89,12 @@ button[type=submit]:hover {
     position: relative;  
 }
 
+.pic-container3 {
+    margin-left: 20px;
+    display: inline-block;
+    position: relative;  
+}
+
 .container-title {
     text-align: center;
     width: 150px;
