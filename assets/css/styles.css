@@ -94,19 +94,7 @@ button[type=submit]:hover {
 }
 
 .pic-container2 {
-    margin-left: 20px;
-    display: inline-block;
-    position: relative;  
-}
-
-.pic-container3 {
-    margin-left: 20px;
-    display: inline-block;
-    position: relative;  
-}
-
-.pic-container4 {
-    margin-left: 20px;
+    margin-left: 80px;
     display: inline-block;
     position: relative;  
 }
@@ -114,7 +102,7 @@ button[type=submit]:hover {
 .container-title {
     text-align: center;
     width: 150px;
-    position: absolute;
+    --position: absolute;
     bottom: 20px;
     padding: 5px;
     background-color: lightblue;
